@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RealSense
 ROS driver for RealSense depth camera
 
@@ -47,3 +48,7 @@ like `/dev/video<n>`, where *n* is some number. Run `ls /dev | grep video` to se
 2. Run the launch file:
 `roslaunch realsense_cam realsense_cam.launch`
 3. If the camera crashes after a few seconds, ensure that the USB port supplies enough current.
+=======
+# RealSense2
+Realsense with 2 or more camera
+>>>>>>> 97be24ef1a8dff7ae430a1a885f713d3eaff5de8
